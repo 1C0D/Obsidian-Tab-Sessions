@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-tab-sessions",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Save and restore tab sessions.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
