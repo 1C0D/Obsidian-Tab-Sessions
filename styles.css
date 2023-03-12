@@ -1,8 +1,16 @@
-/*
+.body {
+	padding: 10px;
+	/* margin-left: 10px; */
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
+/* .buttons-container {
+	margin-right: 10px;
+} */
 
-If your plugin does not need CSS, delete this file.
+.buttons-container {
+	margin-right: 10px;
+}
 
-*/
+.session-name {
+	margin-bottom: 10px;
+}
